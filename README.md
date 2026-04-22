@@ -8,7 +8,7 @@ End To End Azure Data Engineering Project using Azure Data Factory ,Data Lake St
 
 ---
 
-## Power BI Dasgboard
+## Power BI Dashboard
 
 ![Dashboard](Docs/Power_BI_Dashboard.png)
 ---
