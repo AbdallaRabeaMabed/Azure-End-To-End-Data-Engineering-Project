@@ -7,5 +7,10 @@ End To End Azure Data Engineering Project using Azure Data Factory ,Data Lake St
 
 
 ---
+
+## Power BI Dasgboard
+
+![Dashboard](Docs/Power_BI_Dashboard.png)
+---
 Original Dataset Link : https://www.kaggle.com/datasets/ukvet...
 
